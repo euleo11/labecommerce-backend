@@ -1,0 +1,26 @@
+{
+  "name": "first-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "commerce",
+    "intro",
+    "introdução",
+    "backend",
+    "back",
+    "end"
+  ],
+  "author": "Leonardo Victor",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
